@@ -5,6 +5,7 @@ function App() {
   return (
     <Box bg={"gray"} minH={"100vh"}>
       <Navbar />
+      
     </Box>
   );
 }
